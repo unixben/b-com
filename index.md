@@ -1,3 +1,3 @@
 ---
-title: bencouldrey.com.au
+title: BenCouldrey.com.au
 ---
